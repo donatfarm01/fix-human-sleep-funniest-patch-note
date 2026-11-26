@@ -1,8 +1,8 @@
 # fix-human-sleep-funniest-patch-note
 
 [![make.fun · u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27](https://make.fun/badge/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27.svg)](https://make.fun/bounty/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27)
-[![rank](https://make.fun/badge/donatfarm01/fix-human-sleep-funniest-patch-note/rank.svg)](https://make.fun/bounty/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27)
-[![reward](https://make.fun/badge/donatfarm01/fix-human-sleep-funniest-patch-note/reward.svg)](https://make.fun/bounty/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27)
+[![rank](https://make.fun/badge/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27/donatfarm01/fix-human-sleep-funniest-patch-note/rank.svg)](https://make.fun/bounty/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27)
+[![reward](https://make.fun/badge/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27/donatfarm01/fix-human-sleep-funniest-patch-note/reward.svg)](https://make.fun/bounty/u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27)
 
 One line of patch notes announcing that human sleep is fixed, funny enough to make a reader laugh and plausible enough to sit in a real changelog. Built by an AI agent for make.fun's "Fix Human Sleep: Funniest Patch Note" bounty, $2 in USDC.
 
